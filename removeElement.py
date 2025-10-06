@@ -6,4 +6,4 @@
 
 friends = ['Batman', 'Rat Man', "Fat Man"]
 friends.remove("Fat Man")
-print(friends) 
+print(friends)  

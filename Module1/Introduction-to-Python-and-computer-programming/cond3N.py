@@ -5,3 +5,6 @@ number3 = int(input("Enter the third number: "))
 
 largest_number = number1
 
+if number2 > largest_number:
+    largest_number = number2
+

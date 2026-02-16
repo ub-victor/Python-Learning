@@ -1,1 +1,1 @@
-income =  float(input("Enter the annual income: "))
+income =  float(input("Enter the annual income: "));

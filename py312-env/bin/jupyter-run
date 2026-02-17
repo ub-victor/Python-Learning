@@ -1,6 +1,0 @@
-#!/home/victoire/Desktop/My-Project/Python/py312-env/bin/python3
-import sys
-from jupyter_client.runapp import RunApp
-if __name__ == '__main__':
-    sys.argv[0] = sys.argv[0].removesuffix('.exe')
-    sys.exit(RunApp.launch_instance())

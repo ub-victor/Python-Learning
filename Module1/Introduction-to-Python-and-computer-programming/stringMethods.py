@@ -1,1 +1,0 @@
-course = 'Python for Beginners'

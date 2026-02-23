@@ -1,4 +1,4 @@
-# To define formatted strings : prefix your string with an f and then curly braces 
+# To define formatted strings : prefix your string with an f and then curly braces to dynamically insert value into your strings.
 first = "Victoire"
 last = "Ushindi"
 

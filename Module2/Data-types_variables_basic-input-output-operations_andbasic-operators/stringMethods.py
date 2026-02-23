@@ -1,4 +1,4 @@
 course = 'Python for Beginners'
 
-print
+print("the length of course is ", end= "")
 print(len(course))

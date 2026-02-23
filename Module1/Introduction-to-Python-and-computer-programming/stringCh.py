@@ -11,4 +11,3 @@ name = "Victoire"
 print(name[1:-1])
 #ictoir
 
-#37:40

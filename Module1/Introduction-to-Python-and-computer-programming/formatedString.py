@@ -1,4 +1,4 @@
-
+# To define formatted strings : prefix your string with an f and then curly braces 
 first = "Victoire"
 last = "Ushindi"
 

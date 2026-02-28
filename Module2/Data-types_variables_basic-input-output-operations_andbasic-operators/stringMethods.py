@@ -8,3 +8,4 @@ print(course.upper())
 print(course.find('y'))
 print(course.find('Beginners'))
 # Replace method
+print(course.replace('Beginners', 'Absolute Beginners'))

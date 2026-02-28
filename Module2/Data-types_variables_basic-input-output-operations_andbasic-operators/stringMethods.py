@@ -8,5 +8,3 @@ print(course.upper())
 print(course.find('y'))
 print(course.find('Beginners'))
 # Replace method
-
-# 41:38

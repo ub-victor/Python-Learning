@@ -10,4 +10,6 @@ print(abs(-2.9)) # Ubsolute always return a positive number
 # Example: The ceil of 4.2 is 5. Le plafond de 4,2 est 5.
 print(math.ceil(2.2))
 
+print(math.floor(2.9))
+
 

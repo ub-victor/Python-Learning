@@ -15,3 +15,5 @@ print(math.floor(2.9))
 print(math.floor(2.2))
 
 # math.floor(-3.2) returns -4 (it moves to the next smaller, more negative integer). 
+
+# 58:23

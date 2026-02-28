@@ -10,4 +10,4 @@ print(course.find('Beginners'))
 # Replace method
 print(course.replace('Beginners', 'Absolute Beginners'))
 # Check if a sentence have some words
-print("Python" in course) # it will outpout a boolens operation
+print("Python" in course) # it will outpout a boolens operation = True

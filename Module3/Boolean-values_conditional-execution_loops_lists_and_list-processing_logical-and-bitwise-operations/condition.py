@@ -1,9 +1,9 @@
 is_hot = True
 
-if hot == True :
+if is_hot :
     print("It's a hot day")
     print("Drink plenty of water")
-elif hot == False :
+elif is_hot == False :
      print("It's cold day")
      print("Wear warm clothes")
 else:

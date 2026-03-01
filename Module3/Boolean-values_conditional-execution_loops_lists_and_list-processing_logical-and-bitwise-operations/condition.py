@@ -1,6 +1,6 @@
-hot = True
+is_hot = True
 
-if hot :
+if hot == True :
     print("It's a hot day")
     print("Drink plenty of water")
 elif hot == False :

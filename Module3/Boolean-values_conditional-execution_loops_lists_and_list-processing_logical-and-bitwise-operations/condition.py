@@ -3,7 +3,7 @@ hot = True
 if hot :
     print("It's a hot day")
     print("Drink plenty of water")
-elif :
+elif hot == False :
      print("It's cold day")
      print("Wear warm clothes")
 else:

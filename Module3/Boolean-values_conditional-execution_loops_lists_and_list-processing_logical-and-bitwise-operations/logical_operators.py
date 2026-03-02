@@ -7,3 +7,4 @@ if has_high_income and has_good_credit:
     print("Eligible for loan") 
 else:
     print("Not eligible for loan") 
+# 1:11h

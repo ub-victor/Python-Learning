@@ -1,3 +1,5 @@
 {
-    "python-envs.pythonProjects": []
+    "python-envs.pythonProjects": [],
+    "notebook.output.textLineLimit": 50,
+    "notebook.output.scrolling": true
 }

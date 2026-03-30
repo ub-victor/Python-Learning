@@ -8,7 +8,7 @@ create = Path("email")
 
 print(path.exists())
 
-print(create.mkdir())
+print(create.mkdir()) # it will show in the terminal none but the folder will  be created
 
 
 

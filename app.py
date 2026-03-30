@@ -12,8 +12,5 @@ from pathlib import Path
 # create.rmdir() # to delete a form
 
 path = Path()
-print(path.glob('*.py'))
-
-
-
-
+for file in path.glob('*.py'):
+    print(file)

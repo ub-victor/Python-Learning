@@ -9,6 +9,8 @@ create = Path("email")
 print(path.exists())
 
 # print(create.mkdir()) # it will show in the terminal none but the folder will  be created
-create.rmdir() # to delete a form
+# create.rmdir() # to delete a form
+
+
 
 

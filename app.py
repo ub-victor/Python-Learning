@@ -6,7 +6,7 @@ calc_shipping()
 path = Path('ecommerce') # ecommerce folder in the current directory
 create = Path("email")
 
-print(path.exists())
+# print(path.exists()) # Check if a folder exist
 
 # print(create.mkdir()) # it will show in the terminal none but the folder will  be created
 # create.rmdir() # to delete a form

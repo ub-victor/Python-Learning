@@ -2,7 +2,7 @@
 
 A Django-based authentication system that replicates the login functionality for the Adventist University of Central Africa (AUCA) portal. This project provides a clean, responsive login interface with support for both students and staff members, For now only the mimickation of the Login page is implemented.
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Features](#features)
 - [Screenshots](#screenshots)
@@ -16,7 +16,7 @@ A Django-based authentication system that replicates the login functionality for
 
 ---
 
-## ✨ Features
+## Features
 
 - **Clean Login Interface**: A modern, responsive login form with AUCA branding
 - **Responsive Design**: Optimized for both desktop and mobile devices

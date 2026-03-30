@@ -49,6 +49,7 @@ This project is a Django web application we mimic from AUCA site and we plan thi
 4. **Be Extensible**: Built with Django to allow easy feature additions
 
 **Current Status**: Development phase with basic login form functionality
+Debora will implement the Regitration for and Valentin the Sign up functionalities
 
 ---
 

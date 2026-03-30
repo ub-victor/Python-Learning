@@ -39,7 +39,7 @@ A Django-based authentication system that replicates the login functionality for
 
 ---
 
-## 📖 Project Overview
+##  Project Overview
 
 This project is a Django web application we mimic from AUCA site and we plan this project will soon serve as an authentication gateway for AUCA. It's designed to:
 
@@ -60,16 +60,23 @@ Debora will implement the Regitration for and Valentin the Sign up functionaliti
 - Python 3.8 or higher
 - pip (Python package manager)
 - Virtual environment (recommended)
+I used Ubuntu as OS
 
 ### Step-by-Step Setup
 
 #### 1. Clone or Download the Project
 
 ```bash
+git clone https://github.com/ub-victor/Python-Learning/tree/main/auca_project_mimic
+```
+
+```bash
 cd /path/to/auca_project_mimic
 ```
 
 #### 2. Create a Virtual Environment
+
+Of course it depend on how you install your enviroment
 
 ```bash
 # On Linux/Mac
@@ -130,7 +137,7 @@ The application will be available at `http://127.0.0.1:8000/`
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 auca_project_mimic/
@@ -173,7 +180,7 @@ auca_project_mimic/
 
 ---
 
-## 💻 Usage
+##  Usage
 
 ### Basic Login Flow
 
@@ -185,7 +192,9 @@ auca_project_mimic/
 6. Use "Forgot Password?" to recover your password
 7. Click "Sign Up" to create a new account
 
-### Django Admin Panel
+Not backend logic is implemented yet
+
+### Django Admin Panel future implementation
 
 1. Go to `http://127.0.0.1:8000/admin/`
 2. Login with your superuser credentials
@@ -203,7 +212,7 @@ The current `views.py` prints login attempts to the console for development purp
 
 ---
 
-## ⚙️ Configuration
+##  Future  Configuration
 
 ### Database Configuration
 
@@ -251,15 +260,14 @@ SECRET_KEY = 'your-secret-key-here'  # Change this!
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 We welcome contributions from the community! Here's how to add new features or fix bugs:
 
 ### Step 1: Fork or Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/auca_project_mimic.git
-cd auca_project_mimic
+git clone https://github.com/ub-victor/Python-Learning/tree/main/auca_project_mimic
 ```
 
 ### Step 2: Create a Feature Branch
@@ -397,9 +405,9 @@ Go to the GitHub repository and create a pull request describing your changes.
 
 ---
 
-## 📝 Development Roadmap
+##  Development Roadmap
 
-Planned features for future versions:
+Planned future features for future versions:
 
 - [ ] User authentication backend implementation
 - [ ] Password reset functionality
@@ -413,7 +421,7 @@ Planned features for future versions:
 
 ---
 
-## 🐛 Troubleshooting
+##  Troubleshooting
 
 ### Common Issues
 
@@ -457,13 +465,13 @@ For issues, questions, or suggestions, please:
 
 ---
 
-## 📄 License
+##  License
 
 This project is open source and available under the MIT License. See the LICENSE file for more information.
 
 ---
 
-## 👨‍💼 Project Information
+##  Project Information
 
 - **Project Name**: AUCA Project Mimic
 - **Institution**: Adventist University of Central Africa (AUCA)
@@ -474,7 +482,7 @@ This project is open source and available under the MIT License. See the LICENSE
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Django community for the amazing framework
 - AUCA for the inspiration
@@ -484,4 +492,4 @@ This project is open source and available under the MIT License. See the LICENSE
 
 **Last Updated**: March 30, 2026
 
-**Happy Coding!** 🚀
+**Happy Coding!**

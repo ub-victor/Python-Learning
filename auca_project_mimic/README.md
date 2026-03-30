@@ -25,7 +25,7 @@ A Django-based authentication system that replicates the login functionality for
 - **Account Management**: Sign-up link for new users
 - **Static Assets Management**: Organized CSS and image storage
 - **Django Admin Panel**: Pre-configured Django admin interface
-- **Database Ready**: SQLite database setup for development (extensible to production databases)
+- **Database Ready**: SQLite database setup for development (extensible to production databases) Which is not yet implemented but in the future it can be added
 
 ---
 
@@ -41,7 +41,7 @@ A Django-based authentication system that replicates the login functionality for
 
 ## 📖 Project Overview
 
-This project is a Django web application that serves as an authentication gateway for AUCA. It's designed to:
+This project is a Django web application we mimic from AUCA site and we plan this project will soon serve as an authentication gateway for AUCA. It's designed to:
 
 1. **Authenticate Users**: Handle login requests for students and staff
 2. **Provide a Professional Interface**: Display the AUCA branding with institutional colors

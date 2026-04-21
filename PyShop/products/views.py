@@ -3,6 +3,7 @@ from django.shortcuts import render
 # django is the package / shortcuts the modules in modules shortcuts with call render
 # Create your views here.
 
-
+# /products -> index
+#  URL = Unoform Resource Locator (Address)
 def  index(request, response):
     return HttpResponse("Hello World")

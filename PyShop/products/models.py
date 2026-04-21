@@ -1,5 +1,5 @@
-# Import Django’s database tools
-
+# django.db → Import Django’s database tools
+# Django’s database system
 from django.db import models
 
 # Create your models here.

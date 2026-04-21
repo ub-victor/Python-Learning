@@ -7,3 +7,6 @@ from django.shortcuts import render
 #  URL = Unoform Resource Locator (Address)
 def  index(request):
     return HttpResponse("Hello World")
+
+def  new(request):
+    return HttpResponse("Hello World")

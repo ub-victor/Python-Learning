@@ -4,6 +4,6 @@ from . import views # From the current folder import view file
 #  /products
 urlpatterns = [
     path('', views.index),
-    path('/new', views.new),
+    path('new', views.new),
 
 ]

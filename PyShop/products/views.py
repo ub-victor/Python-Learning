@@ -5,5 +5,5 @@ from django.shortcuts import render
 
 # /products -> index
 #  URL = Unoform Resource Locator (Address)
-def  index(request, response):
+def  index(request):
     return HttpResponse("Hello World")

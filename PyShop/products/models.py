@@ -1,6 +1,6 @@
 # Import Django’s database tools
 # django.db → Django’s database system
-# models → module that lets you define tables
+# models → mod<ule that lets you define tables
 from django.db import models
 
 # Create your models here.

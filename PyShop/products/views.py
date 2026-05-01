@@ -4,7 +4,7 @@ from django.shortcuts import render
 # Create your views here.
 
 # /products -> index
-#  URL = Unoform Resource Locator (Address)
+#  URL = Uniform Resource Locator (Address)
 def  index(request):
     return HttpResponse("Hello World")
 
